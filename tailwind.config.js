@@ -12,6 +12,9 @@ module.exports = {
         black: Colors.black,
       },
     },
+    container: {
+      center: true,
+    },
   },
   plugins: [],
 };
