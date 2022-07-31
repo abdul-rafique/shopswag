@@ -51,7 +51,7 @@ function Navbar() {
             alt="logo"
             className="w-10 outline-none"
           />
-          <span className="text-2xl font-bold text-primary">Name</span>
+          <span className="text-2xl font-bold text-primary">Shop Swag</span>
         </Link>
 
         <button
